@@ -16,30 +16,50 @@ Table Of Contents:-
 1) What is Recommendation System?
 
 
-- Based on Users preference, it can show what user want to see.
-- For example, MAL uses recommendation system. It suggest people new movies according to their preferences by watching and voting movies.
-- The purpose of recommender systems is recommending new things that are not seen before from people.
+   - Based on Users preference, it can show what user want to see.
+   - For example, MAL uses recommendation system. It suggest people new movies according to their preferences by watching and voting movies.
+   - The purpose of recommender systems is recommending new things that are not seen before from people.
 
 2) Reason to Choose this Project:-
 
-- During My childhood i like to watch Animation series. It is Entertaining and fun.
-- I choose this Project because I want to create Recommendation system. Because   
+   - During My childhood i like to watch Animation series. It is Entertaining and fun.
+   - I choose this Project because I want to create Recommendation system. Because   
 
 3) Pandas Methods which are Used in this project:-
 
-- head(), tail(), shape, size, columns, dtype, info(), description(),
-- duplicated(), isnull(),
-- sum(), fillna(), nlargest()
-- sort_values(), groupby(),
--  max(), min()
+   - head(), tail(), shape, size, columns, dtype, info(), description(),
+   - duplicated(), isnull(),
+   - sum(), fillna(), nlargest()
+   - sort_values(), groupby(),
+   -  max(), min()
 
 4) Graphs which are used:- For plotting i have used matplotlib.pyplot and seaborn
 
-- Heatmap
-- Bar Graph
-- Countplot
-- Pie Chart
-- Boxplot
+   - Heatmap
+   - Bar Graph
+   - Countplot
+   - Pie Chart
+   - Boxplot
+
+5) Workdone:-
+
+   - I used duplicated so that if there are same values present in dataset i can see and then remove them.
+   - By using isnull, we can see if there is any null value present in any columns.
+   - By using fillna I have filled all the Nan values in the dataset
+   - By using sort_values we get Highest rating, members.
+   - I used groupby where i need the reference of some other column.
+   - I used man and min get highest and lowest value.
+   - I used countplot where the data is more and to visualize it properly.
+   - I used Bar Graph to show episodes w.r.t. rating
+   - With the help of Pie chart i show top 5 genre in columns.
+   - Boxplot also help to visualise episodes w.r.t. rating of shows.
+
+6) Result:-
+
+7) Conclusion:- 
+
+8) Future Scope of this Project:-
+
 
 
 
