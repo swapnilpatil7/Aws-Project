@@ -17,6 +17,8 @@ Table Of Contents:-
 
 
 -Based on Users preference, it can show what user want to see.
+
 -For example, MAL uses recommendation system. It suggest people new movies according to their preferences by watching and voting movies.
+
 -The purpose of recommender systems is recommending new things that are not seen before from people
 
