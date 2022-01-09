@@ -23,7 +23,9 @@ Table Of Contents:-
 2) Reason to Choose this Project:-
 
    - During My childhood i like to watch Animation series. It is Entertaining and fun.
-   - I choose this Project because I want to create Recommendation system. Because   
+   - I choose this Project because I want to create Recommendation system. Because New users who are unaware of this vast world, Every User has its preference wheather user prefer shows on based on genre, popularity or rating. 
+   - Even with user prefernece, User still need Recommendation System that tell users not only user preference but also time duration. So that Users can choose shows based on user convenience.
+   - Nowadays Recommendation System is used everywhere, So it is not just trendy but also Good learning platform.
 
 3) Pandas Methods which are Used in this project:-
 
